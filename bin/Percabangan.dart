@@ -14,7 +14,7 @@ void main(List<String> args) {
     print("nol");
   }
 
-  //Syntax Percabangan Dengan Lamda Expresion
+  //Syntax Percabangan Dengan Style yang beda
 
   outputlamda = (number > 0)
       ? "Positif Lamda"
